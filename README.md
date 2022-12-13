@@ -6,12 +6,11 @@ The circuit schematics and PCB design for the WPI RoboCup SSL robots. All design
 ## Other Pieces of the WPI RoboCup SSL MQP
 
 - [WPI RoboCup SSL MQP Robot Firmware](https://github.com/ThreeMuskets12/SoccerRobotFirmware)
-- [WPI RoboCup SSL MQP Simulator](https://github.com/RoboJackets/robocup-firmware)
-- [WPI RoboCup SSL MQP Master Controller](https://github.com/RoboJackets/robocup-firmware)
+- [WPI RoboCup SSL MQP Simulator](TODO)
+- [WPI RoboCup SSL MQP Master Controller](TODO)
 
 ## Acknowledgements
 
-- [GT RoboJackets RoboCup SSL - Firmware](https://github.com/RoboJackets/robocup-firmware)
 
 
 ## Authors
