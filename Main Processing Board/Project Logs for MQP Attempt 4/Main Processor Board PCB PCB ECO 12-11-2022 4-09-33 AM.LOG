@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=PA22 Pin=J11-1
+Removed Pin From Net: NetName=PA13 Pin=J11-2
+Removed Pin From Net: NetName=VDDIN Pin=J11-3
+Removed Pin From Net: NetName=GND_1 Pin=J11-4
+Removed Pin From Net: NetName=PA16 Pin=J11-5
+Removed Pin From Net: NetName=PA23 Pin=J11-6
+Removed Pin From Net: NetName=PD27 Pin=J11-7
+Removed Pin From Net: NetName=PA15 Pin=J11-8
+Removed Pin From Net: NetName=PA14 Pin=J11-9
+Removed Pin From Net: NetName=PD25 Pin=J11-10
+Removed Pin From Net: NetName=PD26 Pin=J11-11
+Removed Pin From Net: NetName=PD24 Pin=J11-12
+Removed Pin From Net: NetName=PA24 Pin=J11-13
+Removed Pin From Net: NetName=VDDCORE_1 Pin=J11-14
+Removed Pin From Net: NetName=PA25 Pin=J11-15
+Removed Pin From Net: NetName=PD22 Pin=J11-16
+Removed Pin From Net: NetName=PA26 Pin=J11-17
+Removed Pin From Net: NetName=PD21 Pin=J11-18
+Removed Pin From Net: NetName=PA11 Pin=J11-19
+Removed Pin From Net: NetName=PD20 Pin=J11-20
+Removed Pin From Net: NetName=PA10 Pin=J11-21
+Removed Pin From Net: NetName=PD19 Pin=J11-22
+Removed Pin From Net: NetName=PA12 Pin=J11-23
+Removed Pin From Net: NetName=PD18 Pin=J11-24
+Removed Pin From Net: NetName=PA27 Pin=J11-25
+Removed Pin From Net: NetName=PD28 Pin=J12-1
+Removed Pin From Net: NetName=PA5 Pin=J12-2
+Removed Pin From Net: NetName=PD17 Pin=J12-3
+Removed Pin From Net: NetName=PA9 Pin=J12-4
+Removed Pin From Net: NetName=PA4 Pin=J12-5
+Removed Pin From Net: NetName=PD16 Pin=J12-6
+Removed Pin From Net: NetName=PB6 Pin=J12-7
+Removed Pin From Net: NetName=NRST Pin=J12-8
+Removed Pin From Net: NetName=PD14 Pin=J12-9
+Removed Pin From Net: NetName=TST Pin=J12-10
+Removed Pin From Net: NetName=PB12 Pin=J12-11
+Removed Pin From Net: NetName=PD13 Pin=J12-12
+Removed Pin From Net: NetName=PB7 Pin=J12-13
+Removed Pin From Net: NetName=PA3 Pin=J12-14
+Removed Pin From Net: NetName=PD12 Pin=J12-15
+Removed Pin From Net: NetName=PA2 Pin=J12-16
+Removed Pin From Net: NetName=GND_1 Pin=J12-17
+Removed Pin From Net: NetName=VDDIN Pin=J12-18
+Removed Pin From Net: NetName=PD11 Pin=J12-19
+Removed Pin From Net: NetName=PA1 Pin=J12-20
+Removed Pin From Net: NetName=PD10 Pin=J12-21
+Removed Pin From Net: NetName=PA0 Pin=J12-22
+Removed Pin From Net: NetName=JTAGSEL Pin=J12-23
+Removed Pin From Net: NetName=PB4 Pin=J12-24
+Removed Pin From Net: NetName=PD15 Pin=J12-25
+Removed Pin From Net: NetName=VDDCORE_1 Pin=J13-1
+Removed Pin From Net: NetName=PB5 Pin=J13-2
+Removed Pin From Net: NetName=PD9 Pin=J13-3
+Removed Pin From Net: NetName=PA28 Pin=J13-4
+Removed Pin From Net: NetName=PD8 Pin=J13-5
+Removed Pin From Net: NetName=VDDIN Pin=J13-6
+Removed Pin From Net: NetName=PA30 Pin=J13-7
+Removed Pin From Net: NetName=PA31 Pin=J13-8
+Removed Pin From Net: NetName=PD7 Pin=J13-9
+Removed Pin From Net: NetName=PD6 Pin=J13-10
+Removed Pin From Net: NetName=VDDPLL Pin=J13-11
+Removed Pin From Net: NetName=PD5 Pin=J13-12
+Removed Pin From Net: NetName=PD4 Pin=J13-13
+Removed Pin From Net: NetName=PD3 Pin=J13-14
+Removed Pin From Net: NetName=VDDIN Pin=J13-15
+Removed Pin From Net: NetName=PD2 Pin=J13-16
+Removed Pin From Net: NetName=PD1 Pin=J13-17
+Removed Pin From Net: NetName=VDDIN Pin=J13-18
+Removed Pin From Net: NetName=HSDM Pin=J13-19
+Removed Pin From Net: NetName=HSDP Pin=J13-20
+Removed Pin From Net: NetName=VDDUTMIC Pin=J13-21
+Removed Pin From Net: NetName=VBG Pin=J13-22
+Removed Pin From Net: NetName=PB8 Pin=J13-23
+Removed Pin From Net: NetName=PB9 Pin=J13-24
+Removed Pin From Net: NetName=PB13 Pin=J13-25
+Removed Member From Class: ClassName=64 Pin Header Schematic Member=J11
+Removed Member From Class: ClassName=64 Pin Header Schematic Member=J12
+Removed Member From Class: ClassName=64 Pin Header Schematic Member=J13
+Add Pin To Net: Unknown Pin: Pin J10-26
+Add Pin To Net: Unknown Pin: Pin J10-27
+Add Pin To Net: Unknown Pin: Pin J10-28
+Add Pin To Net: Unknown Pin: Pin J10-29
+Add Pin To Net: Unknown Pin: Pin J10-30
+Add Pin To Net: Unknown Pin: Pin J10-31
+Add Pin To Net: Unknown Pin: Pin J10-32
+Add Pin To Net: Unknown Pin: Pin J10-33
+Add Pin To Net: Unknown Pin: Pin J10-34
+Add Pin To Net: Unknown Pin: Pin J10-35
+Add Pin To Net: Unknown Pin: Pin J10-36
+Add Pin To Net: Unknown Pin: Pin J10-37
+Add Pin To Net: Unknown Pin: Pin J10-38
+Add Pin To Net: Unknown Pin: Pin J10-39
+Add Pin To Net: Unknown Pin: Pin J10-40
+Add Pin To Net: Unknown Pin: Pin J10-41
+Add Pin To Net: Unknown Pin: Pin J10-42
+Add Pin To Net: Unknown Pin: Pin J10-43
+Add Pin To Net: Unknown Pin: Pin J10-44
+Add Pin To Net: Unknown Pin: Pin J10-45
+Add Pin To Net: Unknown Pin: Pin J10-46
+Add Pin To Net: Unknown Pin: Pin J10-47
+Add Pin To Net: Unknown Pin: Pin J10-48
+Add Pin To Net: Unknown Pin: Pin J10-49
+Add Pin To Net: Unknown Pin: Pin J10-50
+Add Pin To Net: Unknown Pin: Pin J10-51
+Add Pin To Net: Unknown Pin: Pin J10-52
+Add Pin To Net: Unknown Pin: Pin J10-53
+Add Pin To Net: Unknown Pin: Pin J10-54
+Add Pin To Net: Unknown Pin: Pin J10-55
+Add Pin To Net: Unknown Pin: Pin J10-56
+Add Pin To Net: Unknown Pin: Pin J10-57
+Add Pin To Net: Unknown Pin: Pin J10-58
+Add Pin To Net: Unknown Pin: Pin J10-59
+Add Pin To Net: Unknown Pin: Pin J10-60
+Add Pin To Net: Unknown Pin: Pin J10-61
+Add Pin To Net: Unknown Pin: Pin J10-62
+Add Pin To Net: Unknown Pin: Pin J10-63
+Add Pin To Net: Unknown Pin: Pin J10-64
+Add Pin To Net: Unknown Pin: Pin J10-65
+Add Pin To Net: Unknown Pin: Pin J10-66
+Add Pin To Net: Unknown Pin: Pin J10-67
+Add Pin To Net: Unknown Pin: Pin J10-68
+Add Pin To Net: Unknown Pin: Pin J10-69
+Add Pin To Net: Unknown Pin: Pin J10-70
+Add Pin To Net: Unknown Pin: Pin J10-71
+Add Pin To Net: Unknown Pin: Pin J10-72
+Add Pin To Net: Unknown Pin: Pin J10-73
+Add Pin To Net: Unknown Pin: Pin J10-74
+Add Pin To Net: Unknown Pin: Pin J10-75
+Add Pin To Net: Unknown Pin: Pin J10-76
+Add Pin To Net: Unknown Pin: Pin J10-77
+Add Pin To Net: Unknown Pin: Pin J10-78
+Add Pin To Net: Unknown Pin: Pin J10-79
+Add Pin To Net: Unknown Pin: Pin J10-80
+Add Pin To Net: Unknown Pin: Pin J10-81
+Add Pin To Net: Unknown Pin: Pin J10-82
+Add Pin To Net: Unknown Pin: Pin J10-83
+Add Pin To Net: Unknown Pin: Pin J10-84
+Add Pin To Net: Unknown Pin: Pin J10-85
+Add Pin To Net: Unknown Pin: Pin J10-86
+Add Pin To Net: Unknown Pin: Pin J10-87
+Add Pin To Net: Unknown Pin: Pin J10-88
+Add Pin To Net: Unknown Pin: Pin J10-89
+Add Pin To Net: Unknown Pin: Pin J10-90
+Add Pin To Net: Unknown Pin: Pin J10-91
+Add Pin To Net: Unknown Pin: Pin J10-92
+Add Pin To Net: Unknown Pin: Pin J10-93
+Add Pin To Net: Unknown Pin: Pin J10-94
+Add Pin To Net: Unknown Pin: Pin J10-95
+Add Pin To Net: Unknown Pin: Pin J10-96
+Add Pin To Net: Unknown Pin: Pin J10-97
+Add Pin To Net: Unknown Pin: Pin J10-98
+Add Pin To Net: Unknown Pin: Pin J10-99
+Add Pin To Net: Unknown Pin: Pin J10-100

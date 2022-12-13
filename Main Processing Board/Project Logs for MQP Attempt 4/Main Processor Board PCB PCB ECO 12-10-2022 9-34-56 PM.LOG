@@ -1,0 +1,286 @@
+Added Component: Designator=B1(QFP50P1600X1600X160-100N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0026633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATSAMS70N20B-AN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "556-ATSAMS70N20B-AN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATSAMS70N20B-AN?qs=rrS6PyfT74f9aEDiDShVYw%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-GRM21B-0_2-e0_2_0_7-MFG
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-C1608-080-0_1-IPC_B
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CL10-IPC_C
+Add Component: Footprint Not Found FP-CMD15-21-MFG
+Add Component: Footprint Not Found FP-CMD15-21-MFG
+Add Component: Footprint Not Found FP-CMD15-21-MFG
+Add Component: Footprint Not Found FP-CMD15-21-MFG
+Add Component: Footprint Not Found FP-BLM18-0_15-t0_8-IPC_A
+Add Component: Footprint Not Found FP-BLM18-0_15-t0_8-IPC_A
+Add Component: Footprint Not Found CONN6_061LFBN-RC_SUL
+Add Component: Footprint Not Found CONN_PPTC081LFBN-RC_SUL
+Add Component: Footprint Not Found CONN_3220-10-0100-00_CNC
+Add Component: Footprint Not Found MOLX-39-53-2204
+Added Component: Designator=J5(FP-B3B-XH-AM_LF_SN-MFG)
+Added Component: Designator=J6(FP-B3B-XH-AM_LF_SN-MFG)
+Added Component: Designator=J7(FP-B3B-XH-AM_LF_SN-MFG)
+Added Component: Designator=J8(FP-B3B-XH-AM_LF_SN-MFG)
+Added Component: Designator=J9(FP-B3B-XH-AM_LF_SN-MFG)
+Add Component: Footprint Not Found 61300211121
+Add Component: Footprint Not Found 61300211121
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-IPC_A
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Add Component: Footprint Not Found FP-ESR03-MFG
+Added Component: Designator=S1(SW_TS02-66-43-BK-160-LCR-D)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TS02-66-43-BK-160-LCR-D/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/switches/tactile-switches/ts02-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS02-66-43-BK-160-LCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TS02-66-43-BK-160-LCR-D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TS02-66-43-BK-160-LCR-D/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-219-8MSTR-MFG
+Added Pin To Net: NetName=GND_1 Pin=B1-3
+Added Pin To Net: NetName=GND_1 Pin=B1-6
+Added Pin To Net: NetName=GND_1 Pin=B1-7
+Added Pin To Net: NetName=GND_1 Pin=B1-8
+Added Pin To Net: NetName=GND_1 Pin=B1-10
+Added Pin To Net: NetName=GND_1 Pin=B1-29
+Added Pin To Net: NetName=GND_1 Pin=B1-67
+Added Pin To Net: NetName=GND_1 Pin=S1-3
+Added Pin To Net: NetName=GND_1 Pin=S1-4
+Added Net: Name=GND_1
+Added Pin To Net: NetName=HSDM Pin=B1-94
+Added Net: Name=HSDM
+Added Pin To Net: NetName=HSDP Pin=B1-95
+Added Net: Name=HSDP
+Added Pin To Net: NetName=JTAGSEL Pin=B1-73
+Added Net: Name=JTAGSEL
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Added Net: Name=NetD4_1
+Added Net: Name=NetJ3_7
+Added Net: Name=NetJ3_9
+Added Net: Name=NetJ3_10
+Added Pin To Net: NetName=NRST Pin=B1-58
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=S1-2
+Added Net: Name=NRST
+Added Pin To Net: NetName=PA0 Pin=B1-72
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=B1-70
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=B1-66
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=B1-64
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=B1-55
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=B1-52
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA7 Pin=B1-24
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=B1-25
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=B1-54
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=B1-46
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=B1-44
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=B1-48
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA13 Pin=B1-27
+Added Net: Name=PA13
+Added Pin To Net: NetName=PA14 Pin=B1-34
+Added Net: Name=PA14
+Added Pin To Net: NetName=PA15 Pin=B1-33
+Added Net: Name=PA15
+Added Pin To Net: NetName=PA16 Pin=B1-30
+Added Net: Name=PA16
+Added Pin To Net: NetName=PA17 Pin=B1-16
+Added Net: Name=PA17
+Added Pin To Net: NetName=PA18 Pin=B1-15
+Added Net: Name=PA18
+Added Pin To Net: NetName=PA19 Pin=B1-14
+Added Net: Name=PA19
+Added Pin To Net: NetName=PA20 Pin=B1-13
+Added Net: Name=PA20
+Added Pin To Net: NetName=PA21 Pin=B1-21
+Added Net: Name=PA21
+Added Pin To Net: NetName=PA22 Pin=B1-26
+Added Net: Name=PA22
+Added Pin To Net: NetName=PA23 Pin=B1-31
+Added Net: Name=PA23
+Added Pin To Net: NetName=PA24 Pin=B1-38
+Added Net: Name=PA24
+Added Pin To Net: NetName=PA25 Pin=B1-40
+Added Net: Name=PA25
+Added Pin To Net: NetName=PA26 Pin=B1-42
+Added Net: Name=PA26
+Added Pin To Net: NetName=PA27 Pin=B1-50
+Added Net: Name=PA27
+Added Pin To Net: NetName=PA28 Pin=B1-79
+Added Net: Name=PA28
+Added Pin To Net: NetName=PA30 Pin=B1-82
+Added Net: Name=PA30
+Added Pin To Net: NetName=PA31 Pin=B1-83
+Added Net: Name=PA31
+Added Pin To Net: NetName=PB0 Pin=B1-12
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=B1-11
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=B1-17
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=B1-20
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=B1-74
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=B1-77
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=B1-57
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=B1-63
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=B1-98
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=B1-99
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB12 Pin=B1-61
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=B1-100
+Added Net: Name=PB13
+Added Pin To Net: NetName=PD0 Pin=B1-1
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=B1-92
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=B1-91
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=B1-89
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=B1-88
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=B1-87
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=B1-85
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=B1-84
+Added Net: Name=PD7
+Added Pin To Net: NetName=PD8 Pin=B1-80
+Added Net: Name=PD8
+Added Pin To Net: NetName=PD9 Pin=B1-78
+Added Net: Name=PD9
+Added Pin To Net: NetName=PD10 Pin=B1-71
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD11 Pin=B1-69
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD12 Pin=B1-65
+Added Net: Name=PD12
+Added Pin To Net: NetName=PD13 Pin=B1-62
+Added Net: Name=PD13
+Added Pin To Net: NetName=PD14 Pin=B1-59
+Added Net: Name=PD14
+Added Pin To Net: NetName=PD15 Pin=B1-75
+Added Net: Name=PD15
+Added Pin To Net: NetName=PD16 Pin=B1-56
+Added Net: Name=PD16
+Added Pin To Net: NetName=PD17 Pin=B1-53
+Added Net: Name=PD17
+Added Pin To Net: NetName=PD18 Pin=B1-49
+Added Net: Name=PD18
+Added Pin To Net: NetName=PD19 Pin=B1-47
+Added Net: Name=PD19
+Added Pin To Net: NetName=PD20 Pin=B1-45
+Added Net: Name=PD20
+Added Pin To Net: NetName=PD21 Pin=B1-43
+Added Net: Name=PD21
+Added Pin To Net: NetName=PD22 Pin=B1-41
+Added Net: Name=PD22
+Added Pin To Net: NetName=PD24 Pin=B1-37
+Added Net: Name=PD24
+Added Pin To Net: NetName=PD25 Pin=B1-35
+Added Net: Name=PD25
+Added Pin To Net: NetName=PD26 Pin=B1-36
+Added Net: Name=PD26
+Added Pin To Net: NetName=PD27 Pin=B1-32
+Added Net: Name=PD27
+Added Pin To Net: NetName=PD28 Pin=B1-51
+Added Net: Name=PD28
+Added Pin To Net: NetName=PD30 Pin=B1-23
+Added Net: Name=PD30
+Added Pin To Net: NetName=PD31 Pin=B1-2
+Added Net: Name=PD31
+Added Net: Name=SWCLK
+Added Net: Name=SWDIO
+Added Net: Name=TRACESWO
+Added Pin To Net: NetName=TST Pin=B1-60
+Added Net: Name=TST
+Added Pin To Net: NetName=VBG Pin=B1-97
+Added Net: Name=VBG
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VDDCORE_1 Pin=B1-4
+Added Pin To Net: NetName=VDDCORE_1 Pin=B1-18
+Added Pin To Net: NetName=VDDCORE_1 Pin=B1-22
+Added Pin To Net: NetName=VDDCORE_1 Pin=B1-39
+Added Pin To Net: NetName=VDDCORE_1 Pin=B1-76
+Added Net: Name=VDDCORE_1
+Added Pin To Net: NetName=VDDIN Pin=B1-5
+Added Pin To Net: NetName=VDDIN Pin=B1-19
+Added Pin To Net: NetName=VDDIN Pin=B1-28
+Added Pin To Net: NetName=VDDIN Pin=B1-68
+Added Pin To Net: NetName=VDDIN Pin=B1-81
+Added Pin To Net: NetName=VDDIN Pin=B1-90
+Added Pin To Net: NetName=VDDIN Pin=B1-93
+Added Net: Name=VDDIN
+Added Pin To Net: NetName=VDDPLL Pin=B1-86
+Added Net: Name=VDDPLL
+Added Pin To Net: NetName=VDDUTMIC Pin=B1-96
+Added Net: Name=VDDUTMIC
+Added Pin To Net: NetName=VREFP Pin=B1-9
+Added Net: Name=VREFP
+Added Class: Name=Circuit Schematics
+Added Class: Name=Microcontroller Schematic
+Added Room: Name=Circuit Schematics
+Added Room: Name=Microcontroller Schematic
